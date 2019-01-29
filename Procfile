@@ -1,1 +1,1 @@
-web: gunicorn heartbeatdjango.wsgi
+web: gunicorn app.wsgi
